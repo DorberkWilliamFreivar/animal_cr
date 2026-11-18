@@ -1,0 +1,38 @@
+Pongo abelii : 848
+Pongo pygmaeus : 2712
+Macaca nigra : 617
+Macrocephalon maleo : 121
+
+waiting list : Leptophryne cruentata : 121
+
+FOREST
+1. Forest Formation : 3
+2. Mangrove : 5
+3. Peat Swamp Forest : 76
+4. Sago : 64
+
+NON FOREST NATURAL FORM
+5. Savannah : 12
+6. Wetland : 11
+7. Other Natural Vegetation : 13
+
+AGRICULTUR
+8. Rice Paddy : 40
+9. Coffee : 46
+10. Oil Palm : 35
+11. Rubber : 49
+12. Perennial Cops : 48
+13. Timber Plantation : 80
+14. Forest Plantation : 9
+15. Other Agricultur : 21
+
+NON VEGETATED AREA
+16. Mining Pit : 30
+17. Urban Area : 24
+18. Rocky Surface : 92
+19. Other Non-Vegetation : 25
+
+WATER BODY
+20. Aquaculture : 31
+21. River, Lake, Ocean : 33
+

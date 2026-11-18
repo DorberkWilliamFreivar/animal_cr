@@ -1,0 +1,159 @@
+assessment,id_no,sci_name,presence,origin,seasonal,compiler,yrcompiled,citation,legend,subspecies,subpop,dist_comm,island,tax_comm,generalisd
+499158,10825,Indotestudo forstenii,1,1,1,Anders Rhodin,2020,Chelonian Research Foundation,Extant (resident),,,,,,0
+724972,15509,Orlitia borneensis,1,1,1,Anders Rhodin,2018,Chelonian Research Foundation,Extant (resident),,,,,,0
+1009824,163458,Batagur borneoensis,1,1,1,Anders Rhodin,2020,Chelonian Research Foundation,Extant (resident),,,,,,0
+1076984,135458600,Pelochelys cantorii,1,1,1,Anders Rhodin,2020,Chelonian Research Foundation,Extant (resident),,,,,,0
+2933851,40761,Leucocephalon yuwonoi,1,1,1,Anders Rhodin,2020,Chelonian Research Foundation,Extant (resident),,,,,,0
+3020276,138045255,Leptophryne cruentata,4,1,1,Louise Hobin,2018,IUCN (International Union for Conservation of Nature) & Conservation International.,Possibly Extinct,,,,,,0
+3020276,138045255,Leptophryne cruentata,1,1,1,Louise Hobin,2018,IUCN (International Union for Conservation of Nature) & Conservation International.,Extant (resident),,,,,,0
+5328595,15954,Panthera pardus,1,1,1,IUCN,2008,IUCN (International Union for Conservation of Nature),Extant (resident),,,,,,0
+5328595,15954,Panthera pardus,1,1,1,IUCN,2008,IUCN (International Union for Conservation of Nature),Extant (resident),nimr,,,,,0
+5664672,163892,Protosticta rozendalorum,1,1,1,Rory A. Dow,2008,R.A. Dow & IUCN/SSC Odonata Specialist Group,Extant (resident),,,,,,0
+5670011,163937,Protosticta gracilis,1,1,1,Rory A. Dow,2008,R.A. Dow & IUCN/SSC Odonata Specialist Group,Extant (resident),,,,,,0
+17949995,39794,Macaca pagensis,1,1,1,IUCN,2020,IUCN (International Union for Conservation of Nature),Extant (resident),,,,Sipura,,0
+17949995,39794,Macaca pagensis,1,1,1,IUCN,2020,IUCN (International Union for Conservation of Nature),Extant (resident),,,,Pagai Selatan,,0
+17949995,39794,Macaca pagensis,1,1,1,IUCN,2020,IUCN (International Union for Conservation of Nature),Extant (resident),,,,Pagai Utara,,0
+17950422,12556,Macaca nigra,1,1,1,IUCN,2008,IUCN (International Union for Conservation of Nature),Extant (resident),,,,Talise,,0
+17950422,12556,Macaca nigra,4,1,1,IUCN,2008,IUCN (International Union for Conservation of Nature),Possibly Extinct,,,,Lembeh,,0
+17950422,12556,Macaca nigra,1,1,1,IUCN,2008,IUCN (International Union for Conservation of Nature),Extant (resident),,,,Manadotua,,0
+17950422,12556,Macaca nigra,1,1,1,IUCN,2008,IUCN (International Union for Conservation of Nature),Extant (resident),,,,Sulawesi,,0
+17950422,12556,Macaca nigra,1,3,1,IUCN,2008,IUCN (International Union for Conservation of Nature),Extant & Introduced (resident),,,,Bacan,,0
+17953422,20229,Simias concolor,1,1,1,IUCN,2020,IUCN (International Union for Conservation of Nature),Extant (resident),concolor,,,North Pagai,,0
+17953422,20229,Simias concolor,1,1,1,IUCN,2020,IUCN (International Union for Conservation of Nature),Extant (resident),concolor,,,Sipura,,0
+17953422,20229,Simias concolor,1,1,1,IUCN,2020,IUCN (International Union for Conservation of Nature),Extant (resident),concolor,,,South Pagai,,0
+17953422,20229,Simias concolor,1,1,1,IUCN,2020,IUCN (International Union for Conservation of Nature),Extant (resident),siberu,,,Siberut,,0
+17954456,39815,Presbytis potenziani,1,1,1,IUCN,2020,IUCN (International Union for Conservation of Nature),Extant (resident),potenziani,,,North Pagai,,0
+17954456,39815,Presbytis potenziani,1,1,1,IUCN,2020,IUCN (International Union for Conservation of Nature),Extant (resident),potenziani,,,Sipura,,0
+17954456,39815,Presbytis potenziani,1,1,1,IUCN,2020,IUCN (International Union for Conservation of Nature),Extant (resident),potenziani,,,South Pagai,,0
+17955321,39803,Presbytis chrysomelas,1,1,1,IUCN,2020,IUCN (International Union for Conservation of Nature),Extant (resident),,,,Borneo,,0
+17955321,39803,Presbytis chrysomelas,3,1,1,IUCN,2020,IUCN (International Union for Conservation of Nature),Possibly Extant (resident),,,,Borneo,,0
+17977202,179234,Tarsius tumpara,1,1,1,IUCN,2020,IUCN (International Union for Conservation of Nature),Extant (resident),,,,,,0
+18493355,6553,Dicerorhinus sumatrensis,1,1,1,IUCN,2020,IUCN (International Union for Conservation of Nature),Extant (resident),,,This is very much a generalised polygon as the detailed distribution of this species is highly sensitive. The 'generalised' attribute is not recorded as 1 because a detailed map has not been provided for this species at all.,Borneo,,0
+18493355,6553,Dicerorhinus sumatrensis,1,1,1,IUCN,2020,IUCN (International Union for Conservation of Nature),Extant (resident),,,This is very much a generalised polygon as the detailed distribution of this species is highly sensitive. The 'generalised' attribute is not recorded as 1 because a detailed map has not been provided for this species at all.,Sumatra,,0
+18493900,19495,Rhinoceros sondaicus,1,1,1,IUCN,2020,IUCN (International Union for Conservation of Nature),Extant (resident),,,,Java,,0
+21949526,136218,Ailurops melanotis,1,1,1,IUCN,2008,IUCN (International Union for Conservation of Nature),Extant (resident),,,,Salebabu,,0
+21949526,136218,Ailurops melanotis,2,1,1,IUCN,2008,IUCN (International Union for Conservation of Nature),Probably Extant (resident),,,,Sangihe,,0
+21949788,20639,Spilocuscus rufoniger,1,1,1,IUCN,2008,IUCN (International Union for Conservation of Nature),Extant (resident),,,,New Guinea,,0
+21950078,136443,Spilocuscus wilsoni,1,1,1,IUCN,2008,IUCN (International Union for Conservation of Nature),Extant (resident),,,,Biak and Supiori,,0
+21956785,136668,Dendrolagus mayri,4,1,1,IUCN,2008,IUCN (International Union for Conservation of Nature),Possibly Extinct,,,,New Guinea,,0
+21957219,136696,Dendrolagus pulcherrimus,5,1,1,IUCN,2016,IUCN (International Union for Conservation of Nature),Extinct,,,,New Guinea,,0
+21957219,136696,Dendrolagus pulcherrimus,1,1,1,IUCN,2016,IUCN (International Union for Conservation of Nature),Extant (resident),,,,,,0
+21957219,136696,Dendrolagus pulcherrimus,1,1,1,IUCN,2016,IUCN (International Union for Conservation of Nature),Extant (resident),,,"This record is based on a sight record by credible observers, but it requires confirmation.",New Guinea,,0
+21964204,23179,Zaglossus bruijnii,1,1,1,IUCN,2010,IUCN (International Union for Conservation of Nature),Extant (resident),,,,New Guinea,,0
+21964204,23179,Zaglossus bruijnii,4,1,1,IUCN,2010,IUCN (International Union for Conservation of Nature),Possibly Extinct,,,,Salawati,,0
+21964353,136322,Zaglossus attenboroughi,1,1,1,IUCN,2008,IUCN (International Union for Conservation of Nature),Extant (resident),,,,New Guinea,,0
+22447368,136470,Uromys emmae,4,1,1,IUCN,2013,IUCN (International Union for Conservation of Nature),Possibly Extinct,,,,Owi,,0
+42492712,42492703,Cylindrophis isolepis,1,1,1,"Shai Meiri, Uri Roll, IUCN",2019,"IUCN, University of Tel Aviv",Extant (resident),,,,,,0
+43340054,43340051,Occidozyga tompotika,1,1,1,Jennifer Luedtke,2017,IUCN (International Union for Conservation of Nature) & Conservation International.,Extant (resident),,,,,,0
+73071875,2447,Axis kuhlii,1,1,1,IUCN,2015,IUCN (International Union for Conservation of Nature),Extant (resident),,,,Bawean,,0
+104853630,104759070,Eremiascincus antoniorum,1,1,1,"Shai Meiri, Uri Roll, IUCN",2019,"IUCN, University of Tel Aviv",Extant (resident),,,,,,0
+104853915,104836850,Calamaria apraeocularis,1,1,1,"Shai Meiri, Uri Roll, IUCN",2020,"IUCN, University of Tel Aviv",Extant (resident),,,,,,0
+104853945,104837478,Calamaria longirostris,1,1,1,"Shai Meiri, Uri Roll, IUCN",2020,"IUCN, University of Tel Aviv",Extant (resident),,,,,,0
+114924999,58857,Philautus jacobsoni,4,1,1,Louise Hobin,2017,IUCN (International Union for Conservation of Nature) & Conservation International,Possibly Extinct,,,,,,0
+115604815,115604801,Cnemaspis minang,1,1,1,"Shai Meiri, Uri Roll, IUCN",2020,"IUCN, University of Tel Aviv",Extant (resident),,,,,,0
+123584856,12763,Manis javanica,1,1,1,IUCN SSC Pangolin Specialist Group,2019,IUCN SSC Pangolin Specialist Group,Extant (resident),,,,Sumatra,,0
+123584856,12763,Manis javanica,1,1,1,IUCN SSC Pangolin Specialist Group,2019,IUCN SSC Pangolin Specialist Group,Extant (resident),,,,Batam,,0
+123584856,12763,Manis javanica,1,1,1,IUCN SSC Pangolin Specialist Group,2019,IUCN SSC Pangolin Specialist Group,Extant (resident),,,,Galang,,0
+123584856,12763,Manis javanica,1,1,1,IUCN SSC Pangolin Specialist Group,2019,IUCN SSC Pangolin Specialist Group,Extant (resident),,,,Bulan,,0
+123584856,12763,Manis javanica,1,1,1,IUCN SSC Pangolin Specialist Group,2019,IUCN SSC Pangolin Specialist Group,Extant (resident),,,,Bangka,,0
+123584856,12763,Manis javanica,1,1,1,IUCN SSC Pangolin Specialist Group,2019,IUCN SSC Pangolin Specialist Group,Extant (resident),,,,Lombok,,0
+123584856,12763,Manis javanica,1,1,1,IUCN SSC Pangolin Specialist Group,2019,IUCN SSC Pangolin Specialist Group,Extant (resident),,,,Sumatra,,0
+123584856,12763,Manis javanica,1,1,1,IUCN SSC Pangolin Specialist Group,2019,IUCN SSC Pangolin Specialist Group,Extant (resident),,,,Batam,,0
+123584856,12763,Manis javanica,1,1,1,IUCN SSC Pangolin Specialist Group,2019,IUCN SSC Pangolin Specialist Group,Extant (resident),,,,Galang,,0
+123584856,12763,Manis javanica,1,1,1,IUCN SSC Pangolin Specialist Group,2019,IUCN SSC Pangolin Specialist Group,Extant (resident),,,,Padang,,0
+123584856,12763,Manis javanica,1,1,1,IUCN SSC Pangolin Specialist Group,2019,IUCN SSC Pangolin Specialist Group,Extant (resident),,,,Bintan,,0
+123584856,12763,Manis javanica,1,1,1,IUCN SSC Pangolin Specialist Group,2019,IUCN SSC Pangolin Specialist Group,Extant (resident),,,,Belitung,,0
+123584856,12763,Manis javanica,1,1,1,IUCN SSC Pangolin Specialist Group,2019,IUCN SSC Pangolin Specialist Group,Extant (resident),,,,Bali,,0
+123584856,12763,Manis javanica,1,1,1,IUCN SSC Pangolin Specialist Group,2019,IUCN SSC Pangolin Specialist Group,Extant (resident),,,,Phuket,,0
+123584856,12763,Manis javanica,1,1,1,IUCN SSC Pangolin Specialist Group,2019,IUCN SSC Pangolin Specialist Group,Extant (resident),,,,Lingga,,0
+123584856,12763,Manis javanica,1,1,1,IUCN SSC Pangolin Specialist Group,2019,IUCN SSC Pangolin Specialist Group,Extant (resident),,,,Riau,,0
+123584856,12763,Manis javanica,1,1,1,IUCN SSC Pangolin Specialist Group,2019,IUCN SSC Pangolin Specialist Group,Extant (resident),,,,Nias,,0
+123584856,12763,Manis javanica,1,1,1,IUCN SSC Pangolin Specialist Group,2019,IUCN SSC Pangolin Specialist Group,Extant (resident),,,,Pagai-Selatan,,0
+123584856,12763,Manis javanica,1,1,1,IUCN SSC Pangolin Specialist Group,2019,IUCN SSC Pangolin Specialist Group,Extant (resident),,,,Singapore,,0
+123584856,12763,Manis javanica,1,1,1,IUCN SSC Pangolin Specialist Group,2019,IUCN SSC Pangolin Specialist Group,Extant (resident),,,,Borneo,,0
+123584856,12763,Manis javanica,1,1,1,IUCN SSC Pangolin Specialist Group,2019,IUCN SSC Pangolin Specialist Group,Extant (resident),,,,Kundur,,0
+123584856,12763,Manis javanica,1,1,1,IUCN SSC Pangolin Specialist Group,2019,IUCN SSC Pangolin Specialist Group,Extant (resident),,,,Bulan,,0
+123584856,12763,Manis javanica,1,1,1,IUCN SSC Pangolin Specialist Group,2019,IUCN SSC Pangolin Specialist Group,Extant (resident),,,,Lombok,,0
+123584856,12763,Manis javanica,1,1,1,IUCN SSC Pangolin Specialist Group,2019,IUCN SSC Pangolin Specialist Group,Extant (resident),,,,Bangka,,0
+123584856,12763,Manis javanica,1,1,1,IUCN SSC Pangolin Specialist Group,2019,IUCN SSC Pangolin Specialist Group,Extant (resident),,,,Singkep,,0
+123584856,12763,Manis javanica,1,1,1,IUCN SSC Pangolin Specialist Group,2019,IUCN SSC Pangolin Specialist Group,Extant (resident),,,,Padang,,0
+123584856,12763,Manis javanica,1,1,1,IUCN SSC Pangolin Specialist Group,2019,IUCN SSC Pangolin Specialist Group,Extant (resident),,,,Bintan,,0
+123584856,12763,Manis javanica,1,1,1,IUCN SSC Pangolin Specialist Group,2019,IUCN SSC Pangolin Specialist Group,Extant (resident),,,,Belitung,,0
+123584856,12763,Manis javanica,1,1,1,IUCN SSC Pangolin Specialist Group,2019,IUCN SSC Pangolin Specialist Group,Extant (resident),,,,Bali,,0
+123584856,12763,Manis javanica,1,1,1,IUCN SSC Pangolin Specialist Group,2019,IUCN SSC Pangolin Specialist Group,Extant (resident),,,,Phuket,,0
+123584856,12763,Manis javanica,1,1,1,IUCN SSC Pangolin Specialist Group,2019,IUCN SSC Pangolin Specialist Group,Extant (resident),,,,Lingga,,0
+123584856,12763,Manis javanica,1,1,1,IUCN SSC Pangolin Specialist Group,2019,IUCN SSC Pangolin Specialist Group,Extant (resident),,,,Riau,,0
+123584856,12763,Manis javanica,1,1,1,IUCN SSC Pangolin Specialist Group,2019,IUCN SSC Pangolin Specialist Group,Extant (resident),,,,Nias,,0
+123584856,12763,Manis javanica,1,1,1,IUCN SSC Pangolin Specialist Group,2019,IUCN SSC Pangolin Specialist Group,Extant (resident),,,,Pagai-Selatan,,0
+123584856,12763,Manis javanica,1,1,1,IUCN SSC Pangolin Specialist Group,2019,IUCN SSC Pangolin Specialist Group,Extant (resident),,,,Singapore,,0
+123584856,12763,Manis javanica,1,1,1,IUCN SSC Pangolin Specialist Group,2019,IUCN SSC Pangolin Specialist Group,Extant (resident),,,,Borneo,,0
+123584856,12763,Manis javanica,1,1,1,IUCN SSC Pangolin Specialist Group,2019,IUCN SSC Pangolin Specialist Group,Extant (resident),,,,Java,,0
+123584856,12763,Manis javanica,1,1,1,IUCN SSC Pangolin Specialist Group,2019,IUCN SSC Pangolin Specialist Group,Extant (resident),,,,,,0
+123584856,12763,Manis javanica,1,1,1,IUCN SSC Pangolin Specialist Group,2019,IUCN SSC Pangolin Specialist Group,Extant (resident),,,,Sanglar,,0
+123584856,12763,Manis javanica,1,1,1,IUCN SSC Pangolin Specialist Group,2019,IUCN SSC Pangolin Specialist Group,Extant (resident),,,,Java,,0
+123584856,12763,Manis javanica,1,1,1,IUCN SSC Pangolin Specialist Group,2019,IUCN SSC Pangolin Specialist Group,Extant (resident),,,,Singkep,,0
+123584856,12763,Manis javanica,1,1,1,IUCN SSC Pangolin Specialist Group,2019,IUCN SSC Pangolin Specialist Group,Extant (resident),,,,,,0
+123584856,12763,Manis javanica,1,1,1,IUCN SSC Pangolin Specialist Group,2019,IUCN SSC Pangolin Specialist Group,Extant (resident),,,,Sanglar,,0
+123584856,12763,Manis javanica,1,1,1,IUCN SSC Pangolin Specialist Group,2019,IUCN SSC Pangolin Specialist Group,Extant (resident),,,,Kundur,,0
+123636473,178636,Cyrtodactylus gordongekkoi,1,1,1,"Shai Meiri, Uri Roll, IUCN",2019,"IUCN, University of Tel Aviv",Extant (resident),,,,,,0
+125525069,22705953,Corvus unicolor,1,1,1,Joe Taylor (BirdLife International),2011,BirdLife International and Handbook of the Birds of the World (2016),Extant (resident),,,,,,0
+125525069,22705953,Corvus unicolor,3,1,1,Joe Taylor (BirdLife International),2011,BirdLife International and Handbook of the Birds of the World (2016),Possibly Extant (resident),,,,,,0
+126554826,126554768,Cyrtodactylus celatus,4,1,1,"Shai Meiri, Uri Roll, IUCN",2019,"IUCN, University of Tel Aviv",Possibly Extinct,,,,,,0
+134189710,22697531,Pseudibis davisoni,1,1,1,Robert Calvert; Joe Taylor (BirdLife International),2010,BirdLife International and Handbook of the Birds of the World (2016),Extant (resident),,,,,,0
+134189710,22697531,Pseudibis davisoni,5,1,1,Robert Calvert (BirdLife International),2010,BirdLife International and Handbook of the Birds of the World (2016),Extinct,,,,,,0
+134189710,22697531,Pseudibis davisoni,1,1,1,Joe Taylor (BirdLife International),2010,BirdLife International and Handbook of the Birds of the World (2016),Extant (resident),,,,,,0
+134198542,45355856,Ceyx sangirensis,1,1,1,Joe Taylor (BirdLife International),2014,BirdLife International and Handbook of the Birds of the World (2016),Extant (resident),,,,,,0
+134198542,45355856,Ceyx sangirensis,3,1,1,Joe Taylor (BirdLife International),2014,BirdLife International and Handbook of the Birds of the World (2016),Possibly Extant (resident),,,,,,0
+134199532,22728599,Otus siaoensis,1,1,1,BirdLife International,2000,BirdLife International and Handbook of the Birds of the World (2016),Extant (resident),,,,,,0
+134416536,22707085,Eutrichomyias rowleyi,4,1,1,BirdLife International,2017,BirdLife International and Handbook of the Birds of the World (2017),Possibly Extinct,,,,,,0
+134416536,22707085,Eutrichomyias rowleyi,1,1,1,Hannah Wheatley (BirdLife International),2017,BirdLife International and Handbook of the Birds of the World (2017),Extant (resident),,,,,,0
+134465614,103842251,Hypsipetes platenae,1,1,1,Hannah Wheatley (BirdLife International),2017,BirdLife International and Handbook of the Birds of the World (2017),Extant (resident),,,,,,0
+134475330,22728605,Zosterops nehrkorni,1,1,1,BirdLife International,2000,BirdLife International and Handbook of the Birds of the World (2016),Extant (resident),,,,,,0
+150255309,150255299,Dibamus manadotuaensis,1,1,1,"Shai Meiri, Uri Roll, IUCN",2019,University of Tel Aviv and IUCN (International Union for Conservation of Nature),Extant (resident),,,Manado Tua,,,0
+152052098,12774,Manouria emys,1,1,1,Anders Rhodin,2018,Chelonian Research Foundation,Extant (resident),,,,,,0
+155300126,22690195,Columba argentina,1,1,1,Robert Calvert; Lynda Donaldson; Joe Taylor (BirdLife International); Hannah Wheatley (BirdLife International),2019,BirdLife International and Handbook of the Birds of the World (2019),Extant (resident),,,,,,0
+155300126,22690195,Columba argentina,1,1,1,Robert Calvert; Lynda Donaldson; Joe Taylor (BirdLife International); Hannah Wheatley (BirdLife International),2019,BirdLife International and Handbook of the Birds of the World (2019),Extant (resident),,,,,,0
+155300126,22690195,Columba argentina,3,1,1,Robert Calvert; Lynda Donaldson; Joe Taylor (BirdLife International),2013,BirdLife International and Handbook of the Birds of the World (2019),Possibly Extant (resident),,,,,,0
+155300126,22690195,Columba argentina,3,1,1,Robert Calvert; Lynda Donaldson; Joe Taylor (BirdLife International),2013,BirdLife International and Handbook of the Birds of the World (2019),Possibly Extant (resident),,,,,,0
+163015867,163015864,Nycticebus bancanus,1,1,1,IUCN,2020,IUCN (International Union for Conservation of Nature),Extant (resident),,,,,,0
+175968071,122150350,Amphicnemis madelenae,1,1,1,Anja Danielczak,2019,R.A. Dow,Extant (resident),,,,,,0
+175968071,122150350,Amphicnemis madelenae,4,1,1,Anja Danielczak,2019,R.A. Dow,Possibly Extinct,,,,,,0
+181020902,22724568,Coracornis sanghirensis,1,1,1,BirdLife International; Hannah Wheatley (BirdLife International),2021,BirdLife International and Handbook of the Birds of the World,Extant (resident),,,,,,0
+181037326,22709502,Cyornis ruckii,1,1,1,BirdLife International,2021,BirdLife International and Handbook of the Birds of the World,Extant (resident),,,,,,0
+181604713,22692181,Heliopais personatus,1,1,2,Lynda Donaldson (BirdLife International); Claudia Hermes (BirdLife International),2022,BirdLife International and Handbook of the Birds of the World,Extant (breeding),,,,,,0
+181604713,22692181,Heliopais personatus,3,1,1,Lynda Donaldson (BirdLife International); Claudia Hermes (BirdLife International),2022,BirdLife International and Handbook of the Birds of the World,Possibly Extant (resident),,,,,,0
+181604713,22692181,Heliopais personatus,1,1,4,Claudia Hermes (BirdLife International),2022,BirdLife International and Handbook of the Birds of the World,Extant (passage),,,,,,0
+181604713,22692181,Heliopais personatus,3,1,3,Lynda Donaldson (BirdLife International); Claudia Hermes (BirdLife International),2022,BirdLife International and Handbook of the Birds of the World,Possibly Extant (non-breeding),,,,,,0
+181604713,22692181,Heliopais personatus,1,1,1,Lynda Donaldson (BirdLife International); Claudia Hermes (BirdLife International),2022,BirdLife International and Handbook of the Birds of the World,Extant (resident),,,,,,0
+184587039,22682464,Rhinoplax vigil,1,1,1,Philip Taylor; Joe Taylor (BirdLife International); Hannah Wheatley (BirdLife International),2019,BirdLife International and Handbook of the Birds of the World (2019),Extant (resident),,,,,,0
+194673255,22678576,Macrocephalon maleo,1,1,1,Rob Martin (BirdLife International),2021,BirdLife International and Handbook of the Birds of the World,Extant (resident),,,,,,0
+201545199,200296433,Cacatua citrinocristata,1,1,1,Rob Martin (BirdLife International),2021,BirdLife International and Handbook of the Birds of the World,Extant (resident),,,,,,0
+205841390,39805,Presbytis percura,1,1,1,IUCN,2021,IUCN (International Union for Conservation of Nature),Extant (resident),,,,Sumatra,,0
+205911512,39761,Nycticebus javanicus,1,1,1,IUCN,2021,IUCN (International Union for Conservation of Nature),Extant (resident),,,,Java,,0
+207611465,22727411,Lophura erythrophthalma,4,1,1,Alex Berryman (BirdLife International),2022,BirdLife International and Handbook of the Birds of the World,Possibly Extinct,,,,,,0
+207611465,22727411,Lophura erythrophthalma,3,1,1,Alex Berryman (BirdLife International),2022,BirdLife International and Handbook of the Birds of the World,Possibly Extant (resident),,,,,,0
+207611465,22727411,Lophura erythrophthalma,1,1,1,Alex Berryman (BirdLife International),2022,BirdLife International and Handbook of the Birds of the World,Extant (resident),,,,,,0
+244637841,22680064,Asarcornis scutulata,1,1,1,Alex Berryman (BirdLife International),2011,BirdLife International and Handbook of the Birds of the World,Extant (resident),,,,,,0
+244637841,22680064,Asarcornis scutulata,4,1,1,Alex Berryman (BirdLife International),2023,BirdLife International and Handbook of the Birds of the World,Possibly Extinct,,,,,,0
+246874942,136773,Uromys boeadii,1,1,1,IUCN,2023,IUCN (International Union for Conservation of Nature),Extant (resident),,,,Biak Island,,0
+246874942,136773,Uromys boeadii,3,1,1,IUCN,2023,IUCN (International Union for Conservation of Nature),Possibly Extant (resident),,,,Supiori,,0
+257697081,22707294,Symposiachrus boanensis,1,1,1,Alex Berryman (BirdLife International),2000,BirdLife International and Handbook of the Birds of the World,Extant (resident),,,,,,0
+258449353,45958849,Rattus nikenii,1,1,1,IUCN SSC Small Mammal Specialist Group,2024,IUCN SSC Small Mammal Specialist Group,Extant (resident),,,The map was originally prepared for the 2013 assessment; the same map was used for the 2024 assessment.,Gag,,0
+258586382,22726971,Alcedo euryzona,1,1,1,Alex Berryman (BirdLife International),2012,BirdLife International and Handbook of the Birds of the World,Extant (resident),,,,,,0
+258586382,22726971,Alcedo euryzona,3,1,1,Alex Berryman (BirdLife International),2024,BirdLife International and Handbook of the Birds of the World,Possibly Extant (resident),,,,,,0
+259042400,120588639,Pongo tapanuliensis,3,1,1,Matthew Nowak,2023,"Wich, S.A., Ni?Matullah, S, Sherman, J.,and Meijaard, E. 2023. Spatial data for P. tapanuliensis Red Listing. Borneo Futures, Brunei Darussalam",Possibly Extant (resident),,,,,,0
+259042400,120588639,Pongo tapanuliensis,1,1,1,Matthew Nowak,2023,"Wich, S.A., Ni?Matullah, S, Sherman, J.,and Meijaard, E. 2023. Spatial data for P. tapanuliensis Red Listing. Borneo Futures, Brunei Darussalam",Extant (resident),,,,,,0
+259043172,17975,Pongo pygmaeus,1,3,1,Marc Ancrenaz,2023,"Meijaard, E., Ni?Matullah, S, Dennis, R.A., Ancrenaz, M., Sherman, J. and Wich, S.A. 2023. Spatial data for P. pygmaeus Red Listing. Borneo Futures, Brunei Darussalam",Extant & Introduced (resident),,,,,,0
+259043172,17975,Pongo pygmaeus,1,1,1,Marc Ancrenaz,2023,"Meijaard, E., Ni?Matullah, S, Dennis, R.A., Ancrenaz, M., Sherman, J. and Wich, S.A. 2023. Spatial data for P. pygmaeus Red Listing. Borneo Futures, Brunei Darussalam",Extant (resident),,,,,,0
+259043172,17975,Pongo pygmaeus,3,1,1,Marc Ancrenaz,2023,"Meijaard, E., Ni?Matullah, S, Dennis, R.A., Ancrenaz, M., Sherman, J. and Wich, S.A. 2023. Spatial data for P. pygmaeus Red Listing. Borneo Futures, Brunei Darussalam",Possibly Extant (resident),,,,,,0
+259043172,17975,Pongo pygmaeus,1,1,1,Marc Ancrenaz,2023,"Meijaard, E., Ni?Matullah, S, Dennis, R.A., Ancrenaz, M., Sherman, J. and Wich, S.A. 2023. Spatial data for P. pygmaeus Red Listing. Borneo Futures, Brunei Darussalam",Extant (resident),,,,,,0
+259043172,17975,Pongo pygmaeus,3,1,1,Marc Ancrenaz,2023,"Meijaard, E., Ni?Matullah, S, Dennis, R.A., Ancrenaz, M., Sherman, J. and Wich, S.A. 2023. Spatial data for P. pygmaeus Red Listing. Borneo Futures, Brunei Darussalam",Possibly Extant (resident),,,,,,0
+259043172,17975,Pongo pygmaeus,1,3,1,Marc Ancrenaz,2023,"Meijaard, E., Ni?Matullah, S, Dennis, R.A., Ancrenaz, M., Sherman, J. and Wich, S.A. 2023. Spatial data for P. pygmaeus Red Listing. Borneo Futures, Brunei Darussalam",Extant & Introduced (resident),,,,,,0
+259045437,121097935,Pongo abelii,1,1,1,Serge Wich,2023,"Wich, S.A., Ni?Matullah, S, Sherman, J.,and Meijaard, E. 2023. Spatial data for P. abelii Red Listing. Borneo Futures, Brunei Darussalam",Extant (resident),,,,,,0
+259045437,121097935,Pongo abelii,1,2,1,Serge Wich,2023,"Wich, S.A., Ni?Matullah, S, Sherman, J.,and Meijaard, E. 2023. Spatial data for P. abelii Red Listing. Borneo Futures, Brunei Darussalam",Extant & Reintroduced (resident),,,,,,0
+259045437,121097935,Pongo abelii,1,3,1,Serge Wich,2023,"Wich, S.A., Ni?Matullah, S, Sherman, J.,and Meijaard, E. 2023. Spatial data for P. abelii Red Listing. Borneo Futures, Brunei Darussalam",Extant & Introduced (resident),,,,,,0
+259045437,121097935,Pongo abelii,3,1,1,Serge Wich,2023,"Wich, S.A., Ni?Matullah, S, Sherman, J.,and Meijaard, E. 2023. Spatial data for P. abelii Red Listing. Borneo Futures, Brunei Darussalam",Possibly Extant (resident),,,,,,0
+270543638,2888,Bos javanicus,1,1,1,IUCN,2024,IUCN (International Union for Conservation of Nature),Extant (resident),,,,,,0
+270543638,2888,Bos javanicus,5,1,1,IUCN,2024,IUCN (International Union for Conservation of Nature),Extinct,,,,,,0
+270543638,2888,Bos javanicus,4,1,1,IUCN,2024,IUCN (International Union for Conservation of Nature),Possibly Extinct,,,,,,0
+270543638,2888,Bos javanicus,3,1,1,IUCN,2024,IUCN (International Union for Conservation of Nature),Possibly Extant (resident),,,,,,0
