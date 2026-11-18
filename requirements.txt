@@ -1,0 +1,6 @@
+rasterio
+requests-cache 
+retry-requests
+openmeteo_requests
+pandas
+numpy
