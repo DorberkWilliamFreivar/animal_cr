@@ -2,5 +2,6 @@ rasterio
 requests-cache 
 retry-requests
 openmeteo_requests
+geopandas
 pandas
 numpy

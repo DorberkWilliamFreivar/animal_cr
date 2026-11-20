@@ -2,6 +2,7 @@ Pongo abelii : 848
 Pongo pygmaeus : 2712
 Macaca nigra : 617
 Macrocephalon maleo : 121
+Manouria emys : 223
 
 waiting list : Leptophryne cruentata : 121
 
@@ -36,3 +37,7 @@ WATER BODY
 20. Aquaculture : 31
 21. River, Lake, Ocean : 33
 
+Buat venv disarankan biar ga konflik library
+python -m venv venv
+.\venv\Scripts\Activate
+pip install -r requirements.txt

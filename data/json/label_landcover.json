@@ -1,0 +1,33 @@
+{
+    "Forest": {
+        "Forest Formation": "3",
+        "Mangrove": "5",
+        "Peat Swamp Forest": "76",
+        "Sago": "64"
+    },
+    "Non Forest Natural Form": {
+        "Savannah": "12",
+        "Wetland": "11",
+        "Other Natural Vegetation": "13"
+    },
+    "Agricultur": {
+        "Rice Paddy": "40",
+        "Coffee": "46",
+        "Oil Palm": "35",
+        "Rubber": "49",
+        "Perennial Cops": "48",
+        "Timber Plantation": "80",
+        "Forest Plantation": "9",
+        "Other Agricultur": "21"
+    },
+    "Non Vegetated Area": {
+        "Mining Pit": "30",
+        "Urban Area": "24",
+        "Rocky Surface": "92",
+        "Other Non-Vegetation ": "25"
+    },
+    "Water Body": {
+        "Aquaculture": "31",
+        "River, Lake, Ocean": "33"
+    }
+}
