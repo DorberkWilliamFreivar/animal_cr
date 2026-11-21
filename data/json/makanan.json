@@ -1,17 +1,55 @@
 {
-    "Pongo abelii": {
-        
-    },
-    "Pongo pygmaeus": {
-        
-    },
-    "Macaca nigra": {
- 
-    },
-    "Macrocephalon maleo":{
+    "Pongo abelii": [
+        "Streblus elongatus",
+        "Artocarpus elasticus",
+        "Archidendron",
+        "Ficus",
+        "Durio",
+        "Mangifera",
+        "Nephelium",
+        "Calamus"
+    ],
 
-    },
-    "Manouria emys":{
+    "Pongo pygmaeus": [
+        "Ficus",
+        "Artocarpus",
+        "Durio",
+        "Nephelium",
+        "Mangifera",
+        "Dracontomelon"
+    ],
 
-    }
+    "Macaca nigra": [
+        "Ficus",
+        "Dracontomelon",
+        "Zea mays",
+        "Dioscorea",
+        "Manihot esculenta",
+        "Carica papaya",
+        "Musa",
+        "Theobroma cacao"
+    ],
+
+    "Macrocephalon maleo": [
+        "Aleurites moluccana",
+        "Dracontomelon mangiferum",
+        "Endiandra",
+        "Ficus",
+        "Macaranga",
+        "Macaranga rhizinoides",
+        "Pangium edule"
+    ],
+
+    "Manouria emys": [
+        "Alocasia sarawakensis",
+        "Clidemia hirta",
+        "Diplazium esculentum",
+        "Etlingera coccinea",
+        "Ficus",
+        "Durio",
+        "Artocarpus",
+        "Epipremnum aureum",
+        "Begonia",
+        "Phrynium"
+    ]
 }
